@@ -1,4 +1,4 @@
-SocialMediaBackEnd Project setup
+#SocialMediaBackEnd Project setup
 
 Installation
 
@@ -10,7 +10,7 @@ Install python ( I Used python version 3.12) and python-pip. Follow the steps fr
 
 2. Install PostgreSQL
 
-Install mysql-8.0.15. Follow the steps form the below reference document based on your Operating System. Reference: [https://www.postgresql.org]
+Install PostgreSQL-16. Follow the steps form the below reference document based on your Operating System. Reference: [https://www.postgresql.org]
 
 3. Setup virtual environment
 
@@ -43,11 +43,12 @@ DB_PORT = DATABASE PORT(STANDARD PORT NUMBER :5432)
 
 
 # Make migrations
-python manage.py makemigrations
-python manage.py migrate
+1.python manage.py makemigrations
+
+2.python manage.py migrate
 
 # Run the server
 python manage.py runserver
 
-# your server is up on port 8001
+# your server is up on port 8000
 Try opening http://localhost:8000 in the browser. Now you are good to go
