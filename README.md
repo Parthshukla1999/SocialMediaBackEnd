@@ -1,4 +1,4 @@
-#SocialMediaBackEnd Project setup
+# SocialMediaBackEnd Project setup
 
 Installation
 
