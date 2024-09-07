@@ -24,7 +24,7 @@ source envs/bin/activate
 
 4. Clone git repository
 
-git clone HTTP URL
+git clone (https://github.com/Parthshukla1999/SocialMediaBackEnd.git)
 
 5. Install requirements
 
