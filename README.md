@@ -52,3 +52,8 @@ python manage.py runserver
 
 # your server is up on port 8000
 Try opening http://localhost:8000 in the browser. Now you are good to go
+
+
+
+
+
